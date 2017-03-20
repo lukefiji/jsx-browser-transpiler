@@ -1,2 +1,2 @@
 # React In-Browser JSX Transpiler
-Coded with React, from an egghead.io tutorial
+Coded with React, and uses babel-standalone
